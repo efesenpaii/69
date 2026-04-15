@@ -1,14 +1,12 @@
 <div align="center">
 
-# oyvey-ported
-Kosher client base ported to modern Minecraft by [@cattyngmd](https://github.com/cattyngmd)
+69 client repo 
 
-<img src="images/ui.png" width="90%" />
+
 
 # Why
-![](https://i.imgur.com/VYjIphG.png)
+because there is no good client for DonutSMP and other servers
 
 # What
-Add stuff to it like you would add stuff to your 1.12.2 OyVey paste
-
+What??
 </div>
